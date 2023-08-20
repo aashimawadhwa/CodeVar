@@ -1,0 +1,54 @@
+.CodeMirror{
+  font-size: 18px;
+}
+
+.CodeLabCM .CodeMirror {
+  height: 100%; 
+  border-radius: 10px;
+}
+
+.CodeLabIO .CodeMirror{
+  width: 98%;
+  height: 43%;
+}
+
+.CodeRoom .CodeMirror, .CollabProjectPage .CodeMirror{
+  width: 100%;
+  height: 95%;
+}
+
+.CodeRoom .Sidebar, .CollabProjectPage .Sidebar{
+  height: 94%;
+}
+
+.ProjectPage .CodeMirror{
+  width: 100%;
+  height: 94%;
+}
+
+.IOTerminal .CodeMirror{
+  width: 96%;
+  height: 85%;
+  border-radius: 10px;
+}
+
+.remote-cursor {
+  display: inline-flex;
+  flex-direction: column;
+  position: absolute;
+}
+
+.remote-cursor span {
+  margin-left: -5px;
+  position: absolute;
+}
+
+.remote-cursor .userName {
+  position: fixed;
+  font-size: 12px;
+  font-weight: bold;
+  margin-top: -10px;
+  padding-inline: 4px;
+  color: black;
+  background-color: white;
+}
