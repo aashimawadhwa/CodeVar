@@ -1,4 +1,5 @@
-# Online IDE - Collaborative Code Editor and Execution Platform
+# CodeVar
+## Online IDE - Collaborative Code Editor and Execution Platform
 
 - The Online IDE is a powerful web-based platform designed to provide developers with a collaborative code editing and execution environment for multiple programming languages from a web browser.
 
